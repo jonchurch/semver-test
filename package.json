@@ -9,9 +9,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "jonchurch",
   "license": "ISC",
-  "description": "",
+  "description": "Semver pre-release testing repo",
   "dependencies": {
     "semver": "^7.5.4"
   }
